@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>快乐成长</title><link>https://blog.ruihan.xin</link><description>健康快乐</description><copyright>快乐成长</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/194184999?s=400&amp;u=c4f50de1d8e28ff0c30eb2f31b51cfb518bda425&amp;v=4</url><title>avatar</title><link>https://blog.ruihan.xin</link></image><lastBuildDate>Thu, 06 Feb 2025 05:25:23 +0000</lastBuildDate><managingEditor>快乐成长</managingEditor><ttl>60</ttl><webMaster>快乐成长</webMaster><item><title>觀” 己 観” 人 覌 物</title><link>https://blog.ruihan.xin/post/9.html</link><description>观天地、观万物、观自我，三重人生境界
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>快乐成长</title><link>https://blog.ruihan.xin</link><description>健康快乐</description><copyright>快乐成长</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/194184999?s=400&amp;u=c4f50de1d8e28ff0c30eb2f31b51cfb518bda425&amp;v=4</url><title>avatar</title><link>https://blog.ruihan.xin</link></image><lastBuildDate>Thu, 06 Feb 2025 05:28:33 +0000</lastBuildDate><managingEditor>快乐成长</managingEditor><ttl>60</ttl><webMaster>快乐成长</webMaster><item><title>V7交换机静态路由、Track与NQA联动配置</title><link>https://blog.ruihan.xin/post/10.html</link><description>V7交换机静态路由、Track与NQA联动配置
+目录
+[V7交换机静态路由、Track与NQA联动配置](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138454)
+[1 配置需求或说明](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138455)
+	[1.1适用产品系列](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138456)
+	[1.2配置需求及实现的效果](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138457)
+[2 组网图](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138458)
+[3 配置步骤](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138459)
+[4 验证配置](file:///C:/Users/Administrator/AppData/Local/Temp/CyberArticle/fe2c41668234a87feb83940b3bbf0bba.htm#_Toc10138460)
+	 
+ 
+1  配置需求或说明
+1.1适用产品系列
+	本案例适用于如S7000E、S7500E等的V7交换机，V5、V7交换机具体分类及型号可以参考“1.1 Comware V5、V7平台交换机分类说明”。</description><guid isPermaLink="true">https://blog.ruihan.xin/post/10.html</guid><pubDate>Thu, 06 Feb 2025 05:28:07 +0000</pubDate></item><item><title>觀” 己 観” 人 覌 物</title><link>https://blog.ruihan.xin/post/9.html</link><description>观天地、观万物、观自我，三重人生境界
 人生如寄，寿石无考。</description><guid isPermaLink="true">https://blog.ruihan.xin/post/9.html</guid><pubDate>Thu, 06 Feb 2025 05:24:51 +0000</pubDate></item><item><title>观</title><link>https://blog.ruihan.xin/post/8.html</link><description>![Image](https://github.com/user-attachments/assets/1bb45dfd-06a1-47ec-986b-65b86d84de12)
 觀”   己
 観”   人
